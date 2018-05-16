@@ -12,7 +12,7 @@ client.on('message', message => {
 });
 client.on('message', message => {
     if (message.content === '!nurgling') {
-    	':BestHeart:'
+    	message.reply(':BestHeart:')
   	}
 });
 
