@@ -1,0 +1,8 @@
+{
+  "name": "RoboDragoon",
+  "version": "0.1.0",
+  "description": "PraetorDragoon's Bot",
+  "main": "bot.js",
+  "author": "PraetorDragoon",
+  "dependencies": {}
+}
