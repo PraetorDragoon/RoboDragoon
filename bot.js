@@ -23,7 +23,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             case 'nurgling':
                 bot.sendMessage({
                     to: channelID,
-                    message: ' :BestHeart:'
+                    message: ' :BestHeart: '
                 });
             break;                
             // Just add any case commands if you want to..
