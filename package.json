@@ -4,5 +4,10 @@
   "description": "PraetorDragoon's Bot",
   "main": "bot.js",
   "author": "PraetorDragoon",
-  "dependencies": {}
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
 }
